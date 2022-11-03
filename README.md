@@ -3,7 +3,8 @@
 </div>
 
 <div align='center'>
-  Hi there! I`m Sasha, a Front-end developer from Ukraine 👋
+  Hi there! <br/>
+  I`m Sasha, a Front-end developer from Ukraine 👋
 </div>
 
 <br/>
